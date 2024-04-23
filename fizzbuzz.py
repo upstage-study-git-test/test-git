@@ -1,1 +1,3 @@
-To_do_this_code
+for i in range(1, 15+1):
+    if i % 3 == 0 :
+        print("fizz")
